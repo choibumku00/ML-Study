@@ -21,4 +21,4 @@ In preparation for next year's [Google Solution Challenge](https://www.gdscutd.t
 Organize this week's homework
 
 # 📑Study Reference
-Share study reference
+[paperswithcode](https://paperswithcode.com/)
